@@ -4,3 +4,4 @@
 
 ### Use
 * Run ไฟล์ RandomDeployChess.jar ด้วย jre 11(jdk 11) 
+* หรือ RunMe.java
